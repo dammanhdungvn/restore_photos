@@ -1,0 +1,43 @@
+# --- Machine Learning & NLP ---
+torch
+tensorflow
+scikit-learn
+xgboost
+catboost
+transformers
+spacy
+nltk
+gensim
+fasttext
+
+# --- Data Processing ---
+pandas
+numpy
+scipy
+
+# --- Image Processing ---
+opencv-python
+Pillow
+torchvision
+scikit-image
+
+# --- Visualization ---
+matplotlib
+seaborn
+plotly
+autoviz
+
+# --- Utilities ---
+joblib
+datasets
+evaluate
+pytorch-lightning
+tensorboard
+tqdm
+
+
+# pip install -U -r requirements.txt
+notebook
+jupyterlab
+
+path
