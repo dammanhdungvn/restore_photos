@@ -1,0 +1,51 @@
+{
+  "name": "origin9",
+  "timestamp": 1761717770,
+  "source": "/home/dammanhdungvn/learn_ml/project/images/origin/origin9.png",
+  "resize_mode": "fill_crop",
+  "resize": "/home/dammanhdungvn/learn_ml/project/images/resize/origin9_600x360.png",
+  "task1": "/home/dammanhdungvn/learn_ml/project/images/problem/task1/origin9.png",
+  "task2": "/home/dammanhdungvn/learn_ml/project/images/problem/task2/origin9.png",
+  "perm_task1": [
+    0,
+    7,
+    3,
+    14,
+    12,
+    10,
+    13,
+    1,
+    8,
+    2,
+    5,
+    9,
+    6,
+    4,
+    11
+  ],
+  "perm_task2": [
+    11,
+    12,
+    2,
+    10,
+    8,
+    6,
+    3,
+    7,
+    5,
+    1,
+    9,
+    14,
+    13,
+    0,
+    4
+  ],
+  "config": {
+    "WIDTH": 600,
+    "HEIGHT": 360,
+    "TILE": 120,
+    "COLS": 5,
+    "ROWS": 3,
+    "deterministic_per_image": false
+  }
+}
