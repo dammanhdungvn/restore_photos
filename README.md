@@ -57,3 +57,11 @@ deactivate
 rm -rf venv          # Linux / macOS
 rmdir /s /q venv     # Windows CMD
 ```
+
+
+
+<hr>
+Bước 1: Đâu tiên chạy file "split_data"
+Bước 2: Sau đó  vào thư mục problem để lấy 1 số bức ảnh sang bên public_test và private_test
+Lưu ý: Ảnh ở 3 thư mục problem và public_test và private_test không được trùng nhau
+Bước 3: Vào file main để chạy chương trình chính
